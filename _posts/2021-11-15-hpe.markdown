@@ -2,7 +2,7 @@
 layout: post
 title:  "Human Pose Estimation"
 date:   2021-11-15 22:21:59 +00:00
-image: /images/hpe_metalearning.jpg/
+image: ![chankyokim_cc2](https://user-images.githubusercontent.com/78961659/141818291-29b47161-e9cd-4d33-acac-ddda8a8bdd19.jpg)
 categories: researchaaa
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>"
@@ -12,6 +12,6 @@ slides: /pdfs/jcdl2019.pdf
 code: https://github.com/leonidk/venue_scores
 ---
 김찬교김찬교
-![chankyokim_cc2](https://user-images.githubusercontent.com/78961659/141818291-29b47161-e9cd-4d33-acac-ddda8a8bdd19.jpg)
+
 
 A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric.
