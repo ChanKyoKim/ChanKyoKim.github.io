@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Human Pose Estimation"
-date:   2031-11-15 22:21:59 +00:00
+date:   2021-11-15 22:21:59 +00:00
 image: /images/hpe_metalearning.jpg/
 categories: researchaaa
 author: "Chankyo Kim"
