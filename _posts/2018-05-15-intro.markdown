@@ -2,7 +2,7 @@
 layout: post
 title:  "Introspective Neural Networks"
 date:   2018-05-15 21:21:53 +00:00
-image: /images/intro.jpg
+image: /images/tocabi4.jpg
 categories: CMU
 course: "16-824: Visual Learning and Recognition"
 author: "Leo Keselman"
