@@ -3,7 +3,7 @@ layout: post
 title:  "Human Pose Estimation"
 date:   2031-11-15 22:21:59 +00:00
 image: /images/hpe_metalearning.jpg/
-categories: research
+categories: researchaaa
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>"
 venue: "Machine Learning"
