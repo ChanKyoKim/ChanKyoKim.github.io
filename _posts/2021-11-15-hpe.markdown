@@ -2,7 +2,7 @@
 layout: post
 title:  "Human Pose Estimation"
 date:   2021-11-15 22:21:59 +00:00
-image: ![chankyokim_cc2](https://user-images.githubusercontent.com/78961659/141818291-29b47161-e9cd-4d33-acac-ddda8a8bdd19.jpg)
+image: /images/hpe_metalearning.jpg
 categories: researchaaa
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>"
