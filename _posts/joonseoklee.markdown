@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Venue Analytics: A Simple Alternative to Citation-Based Metrics"
-date:   2019-06-04 22:21:59 +00:00
+title:  "Human Pose Estimation"
+date:   2031-11-15 22:21:59 +00:00
 image: /images/hpe_metalearning.jpg/
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>"
-venue: "ACM/IEEE Joint Conference on Digital Libraries"
+author: "Chankyo Kim"
+authors: "<strong>Chankyo Kim</strong>"
+venue: "Machine Learning"
 arxiv: https://arxiv.org/abs/1904.12573
 slides: /pdfs/jcdl2019.pdf
 code: https://github.com/leonidk/venue_scores
