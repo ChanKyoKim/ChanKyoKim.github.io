@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Development of Novel Tendon-clutching Algoritm Integrated of Trajectory Tracking and Feedback Control in Soft Teleoperation Glove"
-date:   2018-12-05 21:21:53 +00:00
+date:   2020-09-05 21:21:53 +00:00
 image: /images/soft_tendon.jpg
 categories: research
 author: "Chankyo Kim"
