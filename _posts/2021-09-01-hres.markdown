@@ -6,8 +6,9 @@ image: /images/hres_flowchart.jpg
 categories: research
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Sangwook Park"
-venue: "Sustainable Cities and Society", manuscript revision
-slides: /pdfs/HRES.pdf
+venue: "Sustainable Cities and Society, manuscript revision"
+paper: /pdfs/HPE.pdf
 ---
+
 Proposed novel energy optimization algorithm considering two objective variables: energy flow of electricity and hydrogen energy. 
 Designed power-tracking method from city-size electricity demand considering operational limit of every power system component using MATLAB and HOMER software.
