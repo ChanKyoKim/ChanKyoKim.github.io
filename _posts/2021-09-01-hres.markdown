@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design and Optimization of Intelligent Power System with Integrated Floating PV/Hydrogen Energy"
-date:   2020-09-01 21:21:53 +00:00
+date:   2021-09-01 21:21:53 +00:00
 image: /images/hres_flowchart.jpg
 categories: research
 author: "Chankyo Kim"
