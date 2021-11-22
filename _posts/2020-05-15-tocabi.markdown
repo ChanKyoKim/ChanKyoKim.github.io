@@ -5,7 +5,7 @@ date:   2020-05-15 21:21:53 +00:00
 image: /images/tocabi4.jpg
 categories: research
 author: "Chankyo Kim"
-authors: "<strong>Chankyo Kim</strong>, Jaehyun Kim, Namseoung Bum, Hogyun Lee, Jaeheung Park"
+authors: "Hogyun Lee, <strong>Chankyo Kim</strong>, Jaehyun Kim, Namseoung Bum, Jaeheung Park"
 venue: "ANA Avatar Xprize, Semifinalsit"
 video: https://www.youtube.com/watch?v=MLmgGQWkzSo
 ---
