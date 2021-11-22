@@ -8,6 +8,7 @@ author: "Chankyo Kim"
 authors: "You Rim Choi, <strong>Chankyo Kim</strong>, Yejin Hwang, Chae Song Park, Joonseok Lee"
 venue: "European Conference on Computer Vision (ECCV). In preparation"
 paper: /pdfs/HPE.pdf
+code: https://github.com/ChanKyoKim/human-pose-estimation
 
 ---
 
