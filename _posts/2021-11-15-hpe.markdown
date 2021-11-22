@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Human Pose Estimation"
+title:  "Domain Generalization in Human Pose Estimation via Meta-Learning"
 date:   2021-11-15 22:21:59 +00:00
 image: /images/hpe_metalearning.jpg
 categories: research
-author: "Chankyo Kim"
+author: "You Rim Choi, Chankyo Kim, Joonseok Lee"
 authors: "<strong>Chankyo Kim</strong>"
 venue: "Machine Learning"
-arxiv: https://arxiv.org/abs/1904.12573
 slides: /pdfs/jcdl2019.pdf
-code: https://github.com/leonidk/venue_scores
+
 ---
 
-A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric.
+A Robotic Vision project. We introduce modified MAML (Model-Agnostic Meta-Learning) with model regression for domain generalization in human pose estimation to effictively extract key point datas from various image input including different view points, resolution, and luminous intensity.
