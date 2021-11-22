@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dice Stacking: A Dynamic Manipulation Task"
+title:  "Development of Novel Tendon-clutching Algoritm Integrated of Trajectory Tracking and Feedback Control in Soft Teleoperation Glove"
 date:   2018-12-05 21:21:53 +00:00
 image: /images/soft_tendon.jpg
 categories: research
@@ -10,5 +10,3 @@ paper: /pdfs/tele_robot.pdf
 code: https://github.com/ChanKyoKim/tele_robot
 ---
 Under guidance of Prof. Kyujin Cho, we designed wearable master system to provide proper feedback when the robot interacts with the surrounding environment. I proposed advanced master system including a real-time feedback control with integration of trajectory tracking, sensor fusion, and soft robotics. 
-
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
