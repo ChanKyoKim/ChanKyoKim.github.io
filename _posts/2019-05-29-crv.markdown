@@ -10,5 +10,6 @@ venue: "Sustainable Cities and Society", manuscript revision
 arxiv: https://arxiv.org/abs/1904.05537
 slides: /pdfs/HRES.pdf
 ---
+Proposed novel energy optimization algorithm considering two objective variables: energy flow of electricity and hydrogen energy. 
+Designed power-tracking method from city-size electricity demand considering operational limit of every power system component using MATLAB and HOMER software.
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
