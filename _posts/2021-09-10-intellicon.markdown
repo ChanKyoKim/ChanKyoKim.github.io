@@ -2,7 +2,7 @@
 layout: post
 title:  "Online Game Development: CCTV"
 date:   2020-05-15 21:21:53 +00:00
-image: /images/intellicon.jpg
+image: /images/intellicon.JPG
 categories: game
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Hyeongjun Cho, Eujae Song, Junbeom Sim, Youngyik Rhim"
