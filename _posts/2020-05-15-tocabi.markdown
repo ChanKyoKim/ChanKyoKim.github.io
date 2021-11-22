@@ -7,8 +7,8 @@ categories: research
 author: "Chankyo Kim"
 authors: "Hogyun Lee, <strong>Chankyo Kim</strong>, Jaehyun Kim, Namseoung Bum, Jaeheung Park"
 venue: "ANA Avatar Xprize, Semifinalis, ongoing"
-video2020: https://www.youtube.com/watch?v=MLmgGQWkzSo
-video2019: https://www.youtube.com/watch?v=BTkkHSlH-no
+video: https://www.youtube.com/watch?v=MLmgGQWkzSo
+video: https://www.youtube.com/watch?v=BTkkHSlH-no
 ---
 
 We sought to construct stale upper body motion and locomotion of bipedal robot, TOCABI. I used inverse dynamics and QP solver for supposed control objective: configuration and force.
