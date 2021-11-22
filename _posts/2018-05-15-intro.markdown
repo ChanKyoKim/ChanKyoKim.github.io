@@ -1,13 +1,22 @@
 ---
 layout: post
-title:  "Introspective Neural Networks"
-date:   2018-05-15 21:21:53 +00:00
+title:  "Avatar Robot System Control"
+date:   2020-05-15 21:21:53 +00:00
 image: /images/tocabi4.jpg
-categories: CMU
-course: "16-824: Visual Learning and Recognition"
-author: "Leo Keselman"
-paper: /pdfs/16824_snpowers_lkeselma.pdf
+categories: research
+author: "Chankyo Kim"
+authors: "<strong>Chankyo Kim</strong>, Jaehyun Kim, Namseoung Bum, Hogyun Lee, Jaeheung Park"
+video: https://www.youtube.com/watch?v=MLmgGQWkzSo
 ---
-Using pre-trained neural networks to improve fine grained recognition via style transfer. 
-
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
+Project Topic: Design and Manipulation for Slave Robot
+• Developed space control framework codes for torque distribution, joint elasticity, trajectory tracking
+control in slave robot using inverse dynamics and QP optimization algorithm
+• Programmed cartesian control of one arm 7 DOF manipulators based on impedance control theory
+under gravity
+Project Topic: Design and Manipulation for Master System
+• Led initial development of integrated master system of HMD, Exosuit, Haptic Gloves
+• Defined conversion matrix to extract joint trajectories from Kinect data and transport to manipulation
+actuators in slave robot
+• Determined the threshold of latency by comparing physical and extrapolated marker for estimation of
+teleoperation performance
+• Developed virtual space environment to test control of teleoperated robot hands using Unity
