@@ -4,10 +4,10 @@ title:  "Domain Generalization in Human Pose Estimation via Meta-Learning"
 date:   2021-11-15 22:21:59 +00:00
 image: /images/hpe_metalearning.jpg
 categories: research
-author: "You Rim Choi, Chankyo Kim, Joonseok Lee"
+author: "You Rim Choi, Chankyo Kim, Yejin Hwang, Chae Song Park, Joonseok Lee"
 authors: "<strong>Chankyo Kim</strong>"
 venue: "Machine Learning"
-slides: /pdfs/jcdl2019.pdf
+slides: /pdfs/HPE.pdf
 
 ---
 
