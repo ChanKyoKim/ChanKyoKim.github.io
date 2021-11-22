@@ -6,7 +6,7 @@ image: /images/hpe_metalearning.jpg
 categories: research
 author: "You Rim Choi, Chankyo Kim, Yejin Hwang, Chae Song Park, Joonseok Lee"
 authors: "<strong>Chankyo Kim</strong>"
-venue: "European Conference on Computer Vision (ECCV), 2022. In preparation"
+venue: "European Conference on Computer Vision (ECCV). In preparation"
 slides: /pdfs/HPE.pdf
 
 ---
