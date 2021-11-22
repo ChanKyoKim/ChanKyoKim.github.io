@@ -9,15 +9,5 @@ authors: "Hogyun Lee, <strong>Chankyo Kim</strong>, Jaehyun Kim, Namseoung Bum, 
 venue: "ANA Avatar Xprize, Semifinalsit"
 video: https://www.youtube.com/watch?v=MLmgGQWkzSo
 ---
-Project Topic: Design and Manipulation for Slave Robot
-• Developed space control framework codes for torque distribution, joint elasticity, trajectory tracking
-control in slave robot using inverse dynamics and QP optimization algorithm
-• Programmed cartesian control of one arm 7 DOF manipulators based on impedance control theory
-under gravity
-Project Topic: Design and Manipulation for Master System
-• Led initial development of integrated master system of HMD, Exosuit, Haptic Gloves
-• Defined conversion matrix to extract joint trajectories from Kinect data and transport to manipulation
-actuators in slave robot
-• Determined the threshold of latency by comparing physical and extrapolated marker for estimation of
-teleoperation performance
-• Developed virtual space environment to test control of teleoperated robot hands using Unity
+
+We sought to construct stale upper body motion and locomotion of bipedal robot, TOCABI. I used inverse dynamics and QP solver for supposed control objective: configuration and force.
