@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <a href="https://www.facebook.com/aitechplay"> AI Tech Play</a>
+title: AI Tech Play
 date:   2021-01-01 21:21:53 +00:00
 image: /images/aitechplay_logo.jpg
 categories: AI Brand Foundation
