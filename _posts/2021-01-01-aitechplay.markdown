@@ -7,6 +7,7 @@ categories: ai
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Haeun Kang, et. al."
 video: https://www.youtube.com/channel/UCfmSTxHQ6Y43XtHsQ7l_H3Q/videos
+poster: /images/aitechplay_poster.jpg
 code: https://github.com/MITLLRacecar
 ---
 
