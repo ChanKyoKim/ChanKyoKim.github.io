@@ -112,8 +112,8 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Work</h2>
-              <p>I've co-founded <a href="https://www.facebook.com/aitechplay">AI Education Organization</a> in South Korea and wroked as developer in <a href="http://intellicon.co.kr/eng/our-technology/">Intellicon Meta Lab</a>
+              <h2>AI Brand Foundation</h2>
+              <p>I've co-founded <a href="https://www.facebook.com/aitechplay">AI Education Organization</a> in South Korea and worked as developer in <a href="http://intellicon.co.kr/eng/our-technology/">Intellicon Meta Lab</a>
               </p>
             </td>
           </tr>
@@ -122,45 +122,34 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'Intel' %}
+          {% if cat == 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>{{post.categories}} {{post.course}}</em>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
+              {{post.authors}}
 
               <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
+              {% if post.arxiv %}
+              <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
               {% if post.video %}
               <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
               {% endif %}
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
               {% endif %}
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
+              {% endif %}
+              {% if post.paper %}
+              <a href="{{post.paper}}">poster</a> /
               {% endif %}
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
@@ -172,7 +161,6 @@
           {% endif %}
           {% endfor %}
           {% endfor %}
-        </table>
         <br>
         <br>
         <br>
