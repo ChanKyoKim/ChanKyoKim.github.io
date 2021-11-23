@@ -11,4 +11,4 @@ paper: /pdfs/tele_robot.pdf
 code: https://github.com/ChanKyoKim/tele_robot
 ---
 
-Under guidance of Prof. Kyujin Cho, we designed wearable master system to provide proper feedback when the robot interacts with the surrounding environment. I proposed advanced master system including a real-time feedback control with integration of trajectory tracking, sensor fusion, and soft robotics. 
+Under guidance of Prof. Kyujin Cho, we designed wearable master system to provide proper feedback when the robot interacts with the surrounding environment. I proposed advanced master system including a real-time feedback control with integration of trajectory estimation, sensor fusion, and soft robotics. 
