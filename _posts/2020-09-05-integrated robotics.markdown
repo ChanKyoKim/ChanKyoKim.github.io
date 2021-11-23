@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Development of Novel Tendon-clutching Algoritm Integrated of Trajectory Tracking and Feedback Control in Soft Teleoperation Glove"
+title:  "Development of Novel Tendon-clutching Algoritm Integrated of Trajectory Estimation and Feedback Control in Soft Teleoperation Glove"
 date:   2020-09-05 21:21:53 +00:00
 image: /images/soft_tendon.jpg
 categories: research
