@@ -7,7 +7,7 @@ categories: research
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Sunwoo Hwang, Kyujin Cho"
 venue: "SNU Design Fair:Robotics"
-paper: /pdfs/tele_robot.pdf
+slides: /pdfs/tele_robot.pdf
 code: https://github.com/ChanKyoKim/tele_robot
 ---
 
