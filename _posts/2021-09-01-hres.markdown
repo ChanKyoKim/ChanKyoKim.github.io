@@ -7,7 +7,7 @@ categories: research
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Sangwook Park"
 venue: "Sustainable Cities and Society, manuscript revision"
-paper: /pdfs/HPE.pdf
+paper: /pdfs/HRES.pdf
 ---
 
 Proposed novel energy optimization algorithm considering two objective variables: energy flow of electricity and hydrogen energy. 
