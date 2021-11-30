@@ -6,7 +6,7 @@ image: /images/soft_tendon.jpg
 categories: research
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Sunwoo Hwang, Kyujin Cho"
-venue: "SNU Design Fair:Robotics"
+venue: "SNU Creative Design Fair:Robotics"
 slides: /pdfs/tele_robot.pdf
 code: https://github.com/ChanKyoKim/tele_robot
 ---
