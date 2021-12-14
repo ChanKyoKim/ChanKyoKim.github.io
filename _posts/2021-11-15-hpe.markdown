@@ -12,4 +12,4 @@ code: https://github.com/ChanKyoKim/human-pose-estimation
 
 ---
 
-A Robotic Vision project. We introduce modified MAML (Model-Agnostic Meta-Learning) with model regression for domain generalization in human pose estimation to effictively extract key point datas from various image input including different view points, resolution, and luminous intensity.
+A Robotic Vision project. We introduce modified meta-learning with training dataset for domain generalization in human pose estimation to effictively extract key point datas from various image input including different view points, resolution, and luminous intensity.
