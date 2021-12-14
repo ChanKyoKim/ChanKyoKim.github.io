@@ -5,8 +5,8 @@ date:   2020-05-15 21:21:53 +00:00
 image: /images/tocabi4.jpg
 categories: research
 author: "Chankyo Kim"
-authors: "Hogyun Lee, <strong>Chankyo Kim</strong>, Jaehyun Kim, Namseoung Bum, Jaeheung Park"
-venue: "ANA Avatar Xprize, Finalist"
+authors: "Hogyun Lee, Namseoung Bum, <strong>Chankyo Kim</strong>, Jaehyun Kim, Jaeheung Park"
+venue: "ANA Avatar Xprize"
 video: https://www.youtube.com/watch?v=MLmgGQWkzSo
 code: https://github.com/ChanKyoKim/dyros_jet
 ---
