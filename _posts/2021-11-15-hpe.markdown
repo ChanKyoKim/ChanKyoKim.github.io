@@ -7,8 +7,9 @@ categories: research
 author: "Chankyo Kim"
 authors: "You Rim Choi, <strong>Chankyo Kim</strong>, Yejin Hwang, Chae Song Park, Joonseok Lee"
 venue: "European Conference on Computer Vision (ECCV). In preparation"
-video: https://www.youtube.com/watch?v=MLmgGQWkzSo
-code: https://github.com/ChanKyoKim/dyros_jet
+paper: /pdfs/HPE.pdf
+code: https://github.com/ChanKyoKim/human-pose-estimation
+
 ---
 
 A Robotic Vision project. We introduce modified meta-learning with training dataset for domain generalization in human pose estimation to effictively extract key point datas from various image input including different view points, resolution, and luminous intensity.
