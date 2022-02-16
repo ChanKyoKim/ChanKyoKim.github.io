@@ -13,3 +13,18 @@ code: https://github.com/ChanKyoKim/human-pose-estimation
 ---
 
 A Robotic Vision project. We introduce modified meta-learning with training dataset for domain generalization in human pose estimation to effictively extract key point datas from various image input including different view points, resolution, and luminous intensity.
+
+---
+layout: post
+title:  "TEAM SNU: Avatar Robot System Control"
+date:   2020-05-15 21:21:53 +00:00
+image: /images/tocabi4.jpg
+categories: research
+author: "Chankyo Kim"
+authors: "Hogyun Lee, Namseoung Bum, <strong>Chankyo Kim</strong>, Jaehyun Kim, Jaeheung Park"
+venue: "ANA Avatar Xprize"
+video: https://www.youtube.com/watch?v=MLmgGQWkzSo
+code: https://github.com/ChanKyoKim/dyros_jet
+---
+
+We sought to construct stable upper body motion and locomotion of bipedal robot, TOCABI. I used inverse dynamics and QP solver for supposed control objective: configuration and force.
