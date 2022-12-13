@@ -6,7 +6,6 @@ image: /images/hres_flow.jpg
 categories: research
 author: "Chankyo Kim"
 authors: "<strong>Chankyo Kim</strong>, Sangwook Park"
-venue: "Sustainable Cities and Society,Target Journal"
 paper: /pdfs/HRES.pdf
 ---
 
